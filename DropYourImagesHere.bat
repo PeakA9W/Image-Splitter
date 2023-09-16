@@ -1,0 +1,1 @@
+python image-splitter.py %*
