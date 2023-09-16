@@ -1,2 +1,3 @@
 # Image-Splitter
-Image Splitter 
+
+Simple Image Splitter 
